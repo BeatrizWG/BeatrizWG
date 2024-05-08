@@ -1,0 +1,5 @@
+- 👋 Hi! I'm Beatriz, a Computer Science student
+- 👀 I am interested in the area of Data Analysis
+- 🌱 I'm currently learning languages like Python, Java and SQL
+- 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/beatrizwg/)
+- 😄 I look forward to exploring new opportunities and collaborating on exciting projects 🚀
